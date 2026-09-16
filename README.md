@@ -2,6 +2,7 @@
 # Huffman-Coding
 ## Name : CJ ROHIT
 ## Reg no : 212224243005
+##DATE : 16-09-2026
 ## Aim
 To implement Huffman coding to compress the data using Python.
 
